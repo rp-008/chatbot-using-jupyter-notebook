@@ -1,0 +1,34 @@
+EXPLORE COURSEProfessional Certificate Program in Data Science
+Basic Data Structure Interview Questions for Freshers
+1. What is a Data Structure?
+The Data Structure is the way data is organized (stored) and manipulated for retrieval and access. It also defines the way different sets of data relate to one another, establishing relationships and forming algorithms.
+
+2. Describe the types of Data Structures?
+The following are the types of data structures:
+
+Lists: A collection of related things linked to the previous or/and following data items.
+Arrays: A collection of values that are all the same.
+Records: A collection of fields, each of which contains data from a single data type.
+Trees: A data structure that organizes data in a hierarchical framework. This form of data structure follows the ordered order of data item insertion, deletion, and modification.
+Tables: The data is saved in the form of rows and columns. These are comparable to records in that the outcome or alteration of data is mirrored across the whole table.
+3. What is a Linear Data Structure? Name a few examples.
+A data structure is linear if all its elements or data items are arranged in a sequence or a linear order. The elements are stored in a non-hierarchical way so that each item has successors and predecessors except the first and last element in the list.
+
+Examples of linear data structures are Arrays, Stack, Strings, Queue, and Linked List.
+
+4. What are some applications of Data Structures? 
+In terms of data structure interview questions, this is one of the most frequently asked question.
+
+Numerical analysis, operating system, AI, compiler design, database management, graphics, statistical analysis, and simulation.
+
+5. What is the difference between file structure and storage structure?
+The difference lies in the memory area accessed. Storage structure refers to the data structure in the memory of the computer system, whereas file structure represents the storage structure in the auxiliary memory.
+
+6. What is a multidimensional array?
+A multidimensional array is a multidimensional array with more than one dimension. It is an array of arrays or an array with numerous layers. The 2D array, or two-dimensional array, is the most basic multidimensional array. As you'll see in the code, it's technically an array of arrays. A 2D array is also referred to as a matrix or a table with rows and columns. Declaring a multidimensional array is the same as saying a one-dimensional array. We need to notify C that we have two dimensions for a two-dimensional array.
+
+7. How are the elements of a 2D array stored in the memory?
+Row-Major Order: -In row-major ordering, all of the rows of a 2D array are stored in memory in a contiguous manner.
+First, the first row of the array is entirely stored in memory, followed by the second row of the array, and so on until the final row.
+
+Column-Major Order: In column-major ordering, all of the columns of a 2D array are stored in memory in the same order. The first column of the array is entirely saved in memory, followed by the second row of the array, and so on until the last column of the array is wholly recorded in memory.
